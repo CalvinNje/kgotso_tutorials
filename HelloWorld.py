@@ -18,9 +18,11 @@
 
 def first_code():
     # Write you code below this comment
-    name = "HelloWorld"
-    strings = "Don't forget quote mark when working with strings."
+    name = 'HelloWorld'
+    strings = "strings."
+
 
 
     return name,strings
 
+print(first_code())
