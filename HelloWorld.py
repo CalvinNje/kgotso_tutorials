@@ -19,7 +19,7 @@
 def first_code():
     # Write you code below this comment
     name = 'HelloWorld'
-    strings = "strings."
+    strings = "s"
 
 
 
